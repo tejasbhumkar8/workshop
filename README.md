@@ -2,3 +2,5 @@
 -git
 -github
 -VCS
+-SCM
+-Maven
